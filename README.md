@@ -42,7 +42,7 @@ Our team focused on 4 model architectures for this task: U-Net, U-Net++, PSPNet,
 ## PSPNet
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/young-sudo/imseg-net/main/img/unetpp.png" alt="pspnet">
+    <img src="https://raw.githubusercontent.com/young-sudo/imseg-net/main/img/pspnet.png" alt="pspnet">
 </p>
 
 ## Swin-UNet
