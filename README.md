@@ -25,7 +25,7 @@ The project was based on a 2022 [Cell Segmentation challenge proposed at NeurIPS
 
 # Methods
 
-
+(To be continued)
 
 # Acknowledgments
 
