@@ -10,7 +10,7 @@ Deep Learning models for Multi-modal Microscopy Image Segmentation
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=plotly&logoColor=white)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/young-sudo/imseg-net/main/img/DL_logo_header" alt="DL_logo">
+    <img src="https://raw.githubusercontent.com/young-sudo/imseg-net/main/img/DL_logo_header.png" alt="DL_logo">
 </p>
 
 Project under supervision of prof. Elena Casiraghi (University of Milan) with teams from Sorbonne University, University of Milan and University of Warsaw. The project culminated with a DeepLife Hackathon in University of Heidelberg in June 2025.
