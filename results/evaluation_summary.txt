@@ -1,0 +1,39 @@
+Model Evaluation Summary
+==================================================
+
+Model: PSPNet (2 classes)
+File: pspnet_celldet_best.pth
+Best Dice: 0.1085 at threshold 0.10
+Best IoU: 0.0574 at threshold 0.10
+------------------------------
+
+Model: UNet
+File: model_unet_old.pth
+Best Dice: 0.7412 at threshold 0.40
+Best IoU: 0.5888 at threshold 0.40
+------------------------------
+
+Model: UNet
+File: model_unet.pth
+Best Dice: 0.8232 at threshold 0.55
+Best IoU: 0.6996 at threshold 0.55
+------------------------------
+
+Model: SwinUnet
+File: swin_celldet_best.pth
+Best Dice: 0.4916 at threshold 0.10
+Best IoU: 0.3259 at threshold 0.10
+------------------------------
+
+Model: PSPNet
+File: model_psp.pth
+Best Dice: 0.7502 at threshold 0.35
+Best IoU: 0.6002 at threshold 0.35
+------------------------------
+
+Model: UNet++
+File: model_unetpp.pth
+Best Dice: 0.7667 at threshold 0.20
+Best IoU: 0.6217 at threshold 0.20
+------------------------------
+
