@@ -13,7 +13,7 @@ Deep Learning models for Multi-modal Microscopy Image Segmentation
     <img src="https://raw.githubusercontent.com/young-sudo/imseg-net/main/img/DL_logo_header.png" alt="DL_logo">
 </p>
 
-Project under the supervision of prof. Elena Casiraghi (University of Milan) with teams from Sorbonne University, University of Milan, and University of Warsaw. The project culminated with a DeepLife Hackathon in Heidelberg University in June 2025.
+Project under the supervision of **prof. Elena Casiraghi** (University of Milan) with teams from **Sorbonne University**, **University of Milan**, and **University of Warsaw**. The project culminated with a DeepLife Hackathon in **Heidelberg University** in June 2025.
 
 Team Warsaw:
 - [Younginn Park](https://github.com/young-sudo)
@@ -53,16 +53,16 @@ Our team focused on 4 model architectures for this task: U-Net, U-Net++, PSPNet,
 
 # Results
 
-Table. Evaluation metrics across all 4 of our models. (A - Data augmentation, N - Batch normalization)
+Table. Evaluation metrics across all of our models. (A - Data augmentation, N - Batch normalization)
 | Model  | Dice  | IoU  |
 |---|---|---|
 | U-Net++  | 0.77  | 0.62   |
 | SwinUNet  | 0.85  | 0.77   |
 | PSPNet | 0.75  | 0.60   |
-| U-net (1 class) | 0.74 | 0.59
-| U-net (1 class)+A | 0.82 | 0.70
-| U-net (2 class)+A | 0.94 | 0.89
-| U-net (2 class)+A+N | 0.92 | 0.86
+| U-net (1 class) | 0.74 | 0.59 |
+| U-net (1 class)+A | 0.82 | 0.70 | 
+| U-net (2 class)+A | 0.94 | 0.89 |
+| U-net (2 class)+A+N | 0.92 | 0.86 |
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/young-sudo/imseg-net/main/img/metrics.png" alt="pspnet" width="200">
