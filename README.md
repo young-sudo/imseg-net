@@ -15,6 +15,12 @@ Deep Learning models for Multi-modal Microscopy Image Segmentation
 
 The project is based on a 2022 [Cell Segmentation challenge proposed at NeurIPS](https://neurips22-cellseg.grand-challenge.org/) containing multi-modal microscopy images. The competition proceeding have been additionally published on [PMLR](https://proceedings.mlr.press/v212/). The dataset itself is accessible in [CellSeg](https://neurips22-cellseg.grand-challenge.org/dataset/).
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/young-sudo/imseg-net/main/img/data-overview.png" alt="unet" width=500>
+    <br>
+    <small>NeurIPS multi-modal microscopy dataset overview (<a href="https://neurips22-cellseg.grand-challenge.org/dataset/">source</a>)</small>
+</p>
+
 Project done under the supervision of **prof. Elena Casiraghi** (University of Milan) with teams from **Sorbonne University**, **University of Milan**, and **University of Warsaw**. The project culminated with a DeepLife Hackathon in **Heidelberg University** in June 2025.
 
 Team Warsaw:
